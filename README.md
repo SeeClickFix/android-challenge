@@ -12,7 +12,9 @@ Create an App.net client that just lists the most recent posts from the public t
 Bonus for well organized UI and/or pull to refresh
 
 The list should scroll quickly, without dropping frames on a recent Android device
+
 The latest publicly released Android SDK should be used
+
 Use of third party libraries are allowed but are not required
 
 The timeline can be fetched here: https://alpha-api.app.net/stream/0/posts/stream/global.
